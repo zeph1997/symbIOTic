@@ -16,7 +16,8 @@ On a HQ level these data points can be observed in real time to understand how a
 https://youtu.be/2Y8Jht6gb9g
 
 ## Architecture of Solution
-Included in detailed solution (Slide 3)
+![spm1](/Images/spm1.png)
+![spm2](/Images/spm2.png)
 
 ## Detailed Solution
 Powerpoint File included in repository (name: "SCDFxIBM detailed solution")
