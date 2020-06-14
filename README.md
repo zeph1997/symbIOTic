@@ -12,6 +12,9 @@ Abundant data can be gathered from monitoring First Responders during their oper
 On a HQ level these data points can be observed in real time to understand how all the different operations are playing out simultaneously. These data points can be further processed to understand how the performance during operations can be improved and developed into further training guides. 
 ![image](/Images/shortDesc.png)
 
+*Due to unforeseen circumstances. The team developer had been called back to serve his NS liability and therefore unable to develop the solution fully.*
+
+
 ## Pitch Video Link
 https://youtu.be/2Y8Jht6gb9g
 
