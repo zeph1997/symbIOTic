@@ -20,7 +20,8 @@ https://youtu.be/2Y8Jht6gb9g
 ![spm2](/Images/spm2.png)
 
 ## Detailed Solution
-Powerpoint File included in repository (name: "SCDFxIBM detailed solution")
+https://1drv.ms/u/s!ApEnwLk25cCViVrM5u2SpaOOAscx?e=LIbjR7
+Powerpoint File name: "SCDFxIBM detailed solution"
 
 ## App Demo
 https://youtu.be/YsoriBtiz5U
